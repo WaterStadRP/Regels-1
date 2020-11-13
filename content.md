@@ -10,6 +10,6 @@
 - Het opzoeken van de persoon via de stream
 - In chat zijn irl naam noemen
 
-◦ <b>Copyright</b> ➥ Er mag geen copyright content te zien zijn op jou content.
+◦ <b>Copyright</b> ➥ Er mag geen copyright content te zien zijn op jouw content.
 
 © 2020 ZuiderveenRP
