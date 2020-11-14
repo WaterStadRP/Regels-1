@@ -44,4 +44,6 @@
 
 ◦ <b>Aanrijding</b> ➥ Bij een aanrijding moet je de roleplay aangaan. Dus niet wegrijden als je dit wel doet wordt dit gezien als VDM. 
 
+◦ <b>Chat</b> ➥ Het is niet toegestaan om voertuigen in Twitter en/of nieuws te adverteren. Dit mag alleen in het Autoscout-24 in discord.
+
 © 2020 ZuiderveenRP
