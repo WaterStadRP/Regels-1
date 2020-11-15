@@ -30,6 +30,6 @@
 
 ◦ <b>Het dragen van zichtbare holsters</b> ➥ Het dragen van een zichtbaar holster is niet toegestaan zonder het uitvoeren van illegale praktijken, als jij je bevind op blokkenpark en daar een converstatie houd met een andere burger of rondloopt is het in dit geval niet toegestaan een zichtbaar holster te dragen. <b>Dit is een Wet</b>
 
-◦ <b>Het doorverkopen van wapens voor meer dan 50k dan de aanschafprijs is niet toegestaan, word je hier op betrapt zal dit resulteren in een ban. <b>
+◦ <b>Verkopen van wapens</b> ➥ Het doorverkopen van wapens voor meer dan 50k dan de aanschafprijs is niet toegestaan, word je hier op betrapt zal dit resulteren in een ban. <b>
 
 © 2020 ZuiderveenRP
