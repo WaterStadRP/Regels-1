@@ -21,6 +21,8 @@
 ◦ <b>Vuurwapens</b> ➥ Als iemand een vuurwapen op je richt dien je te alle tijden mee te werken, je mag niet wegrennen of de desbetreffende persoon aanvallen. Dit valt onder de no value of life regel.
 
 ◦ <b>Vuurwapen gebruik</b> ➥ Het gebruik van een vuurwapen moet beperkt zijn, jij mag iemand die jou uitscheld niet neerschieten. Bij misbruik van een vuurwapen kan deze worden ingenomen, let op deze regel valt ook in combinatie met de "Random Death Matching" regel.
+➥ Bij misbruik van je vuurwapen kan deze door een staff worden afgepakt.
+➥ Als jij gebanned word voor "Random Death Matching" zal jouw gebruikte vuurwapen worden afgepakt.
 
 ◦ <b>Drugs locaties</b> ➥ Het claimen van drugs locaties is toegestaan, het geld vragen aan burgers voor de geclaimde locatie is <b>niet</b> toegestaan.
 
