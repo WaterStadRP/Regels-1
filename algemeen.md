@@ -46,4 +46,6 @@
 
 ◦ <b>Chat</b> ➥ Het is niet toegestaan om voertuigen in Twitter en/of nieuws te adverteren. Dit mag alleen in het Autoscout-24 in discord.
 
+◦ <b>Refunds</b> ➥ Voorwerpen worden niet gerefund zonder daadwerkelijk bewijs via een clip systeem zoals medal.
+
 © 2020 ZuiderveenRP
