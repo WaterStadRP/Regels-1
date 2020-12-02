@@ -48,4 +48,6 @@
 
 ◦ <b>Refunds</b> ➥ Voorwerpen worden niet gerefund zonder daadwerkelijk bewijs via een clip systeem zoals medal.
 
+◦ <b>Green zones</b> ➥ In een green zone mag je niemand vermoorden. Op de volgende locaties zijn greenzone: Politiebureau, ziekenhuis, Anwb Hq, Meth verpak, Coke pluk, Coke verpak en Blokkenpark.
+
 © 2020 ZuiderveenRP
