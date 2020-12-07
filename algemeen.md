@@ -50,4 +50,6 @@
 
 ◦ <b>Green zones</b> ➥ In een green zone mag je niemand vermoorden/overvallen. Op de volgende locaties zijn greenzone: Politiebureau, ziekenhuis, Anwb Hq, Cardealer, Blokkenpark en Casino.
 
+◦ <b>IRL geld</b> ➥ Het is in geen enkele wijze toegestaan om diensten/spullen te verkopen voor IRL geld hier staat een permanente ban op.
+
 © 2020 ZuiderveenRP
