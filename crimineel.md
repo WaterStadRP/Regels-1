@@ -6,9 +6,9 @@
 
 
 ◦ <b>Ontvoeren</b> 
-     ➥ Het ontvoeren van burgers is toegestaan zolang er een goeie RP, Of gedachte achter zit die kan worden uitgelegd             door middel van een clip. 
-     ➥ Het ontvoeren van burgers mag niet langer zijn dan 60 minuten! 
-     ➥ Het ontvoeren van burgers mag niet als degene op dat moment op een greenzone staat!  Is deze hierheen                       gevlucht en dit staat op je clip mag je dit wel doen!
+     ➥ Het ontvoeren van burgers is toegestaan zolang er een goeie RP, Of gedachte achter zit die kan worden uitgelegd             door middel van een clip. <br>
+     ➥ Het ontvoeren van burgers mag niet langer zijn dan 60 minuten! <br>
+     ➥ Het ontvoeren van burgers mag niet als degene op dat moment op een greenzone staat!  Is deze hierheen                       gevlucht en dit staat op je clip mag je dit wel doen!<br>
      ➥ Voor het ontvoeren van burgers moet er minimaal 4 politie online zijn.
     
 
