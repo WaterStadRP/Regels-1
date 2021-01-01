@@ -4,34 +4,80 @@
 
 ◦ <b>Twitter</b> ➥ Twitter is geen illegaal platform waar jij spullen mag verkopen zoals: wapens, drugs locaties en andere criminele informatie. Deze regels gelden het zelfde voor het <b>kopen</b> van criminele informatie op het platform.
 
-◦ <b>OOC</b> ➥ OOC mag niet gebruikt worden voor illegale activiteiten, illegale activiteiten hebben niks te maken met ooc zaken. Dit is dus zoals aangegeven <b>niet</b> toegestaan.
 
-◦ <b>Ontvoeren</b> ➥ Het ontvoeren van burgers is enkel toegestaan moet goede voorafgaande roleplay, verder gelden de volgende regels bij het ontvoeren van een burger. Je mag een burgers pas ontvoeren vanaf totaal 4 Politie en/of Marechaussee in dienst, je mag een agent pas ontvoeren vanaf totaal 6 Politie en/of Marechaussee in dienst. Verder mag je iemand niet verplichten geld te pinnen bij een ontvoering.
+◦ <b>Ontvoeren</b> 
+     ➥ Het ontvoeren van burgers is toegestaan zolang er een goeie RP, Of gedachte achter zit die kan worden uitgelegd             door middel van een clip. 
+     ➥ Het ontvoeren van burgers mag niet langer zijn dan 60 minuten! 
+     ➥ Het ontvoeren van burgers mag niet als degene op dat moment op een greenzone staat!  Is deze hierheen                       gevlucht en dit staat op je clip mag je dit wel doen!
+     ➥ Voor het ontvoeren van burgers moet er minimaal 4 politie online zijn.
+    
 
-◦ <b>Overvallen</b> ➥ Het overvallen van burgers is enkel toegestaan met goede voorafgaande roleplay, verder gelden de volgende regels bij het ontvoeren van een burger. Je mag burgers altijd overvallen, ook zonder Politie of Marechaussee in dienst, dit mag met een maximaal geld bedrag van €5,000. Je mag een agent pas overvallen vanaf totaal 6 Politie en/of Marechaussee in dienst. Verder mag je iemand niet verplichten geld te pinnen bij een overval en mag je geen wapens afpakken bij een overval. Je mag ook geen drugs zakjes of andere soorten drugs van een hogere waarde dan €5,000 afpakken bij een overval.
+◦ <b>Overvallen van burgers</b> 
+     ➥ Het overvallen van iemand die een NON whitelisted job uitvoert is streng verboden (Kan je zien aan de Outfit!) 
+     ➥ Het overvallen van burgers in openbare plekken is niet toegestaan! (BPG appartementen,ziekhuis,PolitieBureau,BPG). 
+     ➥ Het overvallen van burgers die minder dan 1 week in de stad zijn is streng verboden! 
+     ➥ Het overvallen van burgers die in een greenzone staan mogen niet worden overvallen dit is streng verboden! 
+     ➥ Na het overvallen van een burger mag je hem/haar niet vermoorden.
+     ➥ Het overvallen van burgers is maximaal voor een bedrag van €5,000.
+     ➥ Het overvallen van dezelfde burger is niet toegestaan.
+     ➥ Het overvallen van burgers mag altijd! Mits je je aan de boven geschreven regels houdt!  
+     
+◦ <b>Let op!</b>
+     ➥Bij het overvallen van burger zullen de spullen die zijn ingenomen door de overvaller wordt teruggegeven aan de           die is overvallen! Worden er meerdere feiten geconstateerd zullen deze worden opgeteld en leiden tot een hogere             straf.
 
-◦ <b>Overvallen van nieuwelingen</b> ➥ Het overvallen van net nieuwe spelers bij bijvoorbeeld de spawn is ten strengste verboden, dit resulteert in een minimale ban van 7 dagen.
+◦ <b>Het vermoorden van burgers</b>
+     ➥ Het vermoorden van burgers mag, mits er wordt voldaan aan de regels van het overvallen van burgers.
+     ➥ Er moet worden voldaan aan een duidelijk RP Scenario. (beoordeeld door een staflid) 
+     ➥ Het vermoorden van burgers is niet toegestaan op de volgende plekken:
+        Blokkenpark garage, Ziekenhuis, Auto Dealer, Politiebureau, ANWB HQ, Casino. 
+     ➥ Het vermoorden van hostages mag als het scenario escaleert anders is dit niet toegestaan. 
 
-◦ <b>Aantal overvallen</b> ➥ Je mag iemand niet meerdere malen overvallen in bijvoorbeeld 1 uur, je mag dezelfde persoon maar 1 keer per 3 uur overvallen. Je mag ook niet met ze 3en 3x een geld bedrag van €5,000 eisen.
+◦ <b>Overval op een bank,juwelier of winkel</b> 
+     ➥ Max overvallers bij een grote bank is 10. 
+     ➥ Max overvallers bij een kleine bank of winkel is 5. 
+     ➥ Max overvallers bij een Juwelier is 8. 
+     ➥ Max hostages bij een kleine bank, juwelier of winkel is 5. 
+     ➥ Max hostages bij een grote bank is 10.
+     ➥ De onderhandelaar mag niet worden gegijzeld of beschoten worden in onderhandeling.
+     ➥ Het onnodig doodschieten van hostages mag niet! 
+     ➥ Vrienden als hostage nemen is ten strengste verboden.
+     ➥ Aantal politie online voor een kleine bank en winkel is 4.
+     ➥ Aantal politie online voor een grote bank is 7.
+     ➥ Aantal politie online voor een juwelier is 5.
+     
+◦ <b>RolePlay tegen over de politie</b>
+     ➥ Het schieten op politie mag in de volgende Scenario’s, Bank overval waarin de politie binnenvalt of schiet, In             geval van nood (alleen waarschuwing schoten), Als je een politie onder schot hebt en er komt back-up en het wordt           gevaarlijk voor jou en je collega mag je schieten, onnodig schieten is een ban. 
+     ➥ Als je op een politie schiet probeer altijd eerst op de benen te schieten! Onnodig politie doodschieten is een ban 
+   
+◦ <b>Wanneer mag je gefouilleerd worden</b>
+     ➥ Als je een holster om hebt.
+     ➥ Als je vlucht voor de politie.
+     ➥ Preventief fouilleren mag wanner het dreigingsniveau 5 is.
+     ➥ Fouilleren mag als er een schietmelding in de omgeving is.
+     ➥ Fouilleren mag als ze je betrappen op illegale activiteiten.
+     ➥ Je mag NIET worden gefouilleerd als je een verkeersovertreding begaat.
 
-◦ <b>Voertuig diefstal</b> ➥ Het stelen van een burgers voertuig is niet toegestaan zonder voorafgaande roleplay. Je mag niet iemands voertuig stelen wanneer de desbetreffende persoon net uitstapt, je mag niet naast een voertuig eigenaar de deur opentrekken en het voertuig stelen.
+◦ <b>Vuurwapenwet</b> 
+     ➥ Word er een mes op je gericht en sta je binnen Steekafstand werk je mee kan je wegrennen mag dat wel maar heb je t         risico dat je wordt gestoken!
+     ➥ Als je wordt gestoken mag je niet meer RENNEN, je mag wel LOPEN! 
+     ➥ Als er een Mes op je gericht staat en je zit in een Auto mag je doorrijden.
+     ➥ Als er een vuurwapen op je gericht staat dien je ten alle tijden mee te werken! Wegrennen of de desbetreffende             persoon aanvallen is ten strengste verboden en word de No Value of Life regel toegepast
+     ➥ Word er geen wapen gericht op jou of je collega’s en heeft hij of zei hem niet meer in zijn hand mag je je wapen           trekken, mits je niet meer in het zicht van de overvaller of politie bent, ben je in de minderheid is een wapen             trekken een NO GO! 
+    
 
-◦ <b>Gijzelingen</b> ➥ Het gebruiken van vrienden/kennissen als gegijzelde wat vooraf is afgesproken is <b>niet</b> toegestaan. 
+◦ <b>Regels ten aanzien van auto gebruik</b> 
+     ➥ Het pitten onder de 100 KM Per/Uur is toegestaan! Remt degene die wordt achtervolgd en de politieauto of een               normale auto botst ertegenaan is dit toegestaan. 
+     ➥ Het pakken van een auto uit de garage in een achtervolging mag niet! Staat er ergens een vriend die je ophaalt is           wel toegestaan! 
+     ➥ Bij een Fatale klap of crash in een achtervolging blijf je in je auto zitten als er een Scenario uit voort kan             komen! 
+     
+◦ <b>FAIL RP scenarios/situaties</b>     
+     ➥ Het vluchten nadat iemand je probeert te pitten, overvallen, kidnappen naar een greenzone is ten strengste                 verboden! 
+     ➥  OOC praten in een scenario is ten strengste verboden 
+     ➥  Iemand doodschieten zonder RP hierbij zal het gebruikte wapen worden ingenomen.
 
-◦ <b>Vuurwapens</b> ➥ Als iemand een vuurwapen op je richt dien je te alle tijden mee te werken, je mag niet wegrennen of de desbetreffende persoon aanvallen. Dit valt onder de no value of life regel.
-
-◦ <b>Vuurwapen gebruik</b> ➥ Het gebruik van een vuurwapen moet beperkt zijn, jij mag iemand die jou uitscheld niet neerschieten. Bij misbruik van een vuurwapen kan deze worden ingenomen, let op deze regel valt ook in combinatie met de "Random Death Matching" regel.
-
-➥ Bij misbruik van je vuurwapen kan deze door een staff worden afgepakt.
-
-➥ Als jij gebanned word voor "Random Death Matching" zal jouw gebruikte vuurwapen worden afgepakt.
-
-◦ <b>Drugs locaties</b> ➥ Het claimen van drugs locaties is toegestaan, het geld vragen aan burgers voor de geclaimde locatie is <b>niet</b> toegestaan.
-
-◦ <b>Onderhandeling</b> ➥ Bij een onderhandeling met de Politie en/of Marechaussee is het niet toegestaan de onderhandelaar neer te schieten en/of te gijzelen, de onderhandelaar is op het moment van onderhandeling onbewapend en mag dus niet aangevallen worden. Wanneer de agent is terug gekeerd naar zijn locatie "bijvoorbeeld achter een voertuig" en zijn wapen heeft gepakt telt deze regel niet meer.
-
-◦ <b>Het dragen van gezichts bedekking</b> ➥ Het dragen van gezichts bedekkende kleding is niet toegestaan zonder het uitvoeren van illegale praktijken, als jij je bevind op blokkenpark en daar een converstatie houd met een andere burger of rondloopt is het in dit geval niet toegestaan gezichts bedekkende kleding te dragen. <b>Dit is een Wet</b>
-
-◦ <b>Het dragen van zichtbare holsters</b> ➥ Het dragen van een zichtbaar holster is niet toegestaan zonder het uitvoeren van illegale praktijken, als jij je bevind op blokkenpark en daar een converstatie houd met een andere burger of rondloopt is het in dit geval niet toegestaan een zichtbaar holster te dragen. <b>Dit is een Wet</b>
+◦ <b>Communicatie regels</b>
+     ➥ Worden je Communicatie middelen afgepakt dien je jezelf te muten in discord hierbij zal ook je bodycam moeten               worden afgesloten.
+     ➥ Praat je in je oortje zorg ervoor dat je dit ook ingame doet als er mensen in je buurt zijn. 
+     ➥ Kijkt iemand mee op je telefoon dan mag je de politie niet bellen of sms’en.    
 
 © 2020 ZuiderveenRP
