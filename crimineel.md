@@ -78,5 +78,10 @@
      ➥ Worden je Communicatie middelen afgepakt dien je jezelf te muten in discord hierbij zal ook je bodycam moeten worden afgesloten.<br>
      ➥ Praat je in je oortje zorg ervoor dat je dit ook ingame doet als er mensen in je buurt zijn. <br>
      ➥ Kijkt iemand mee op je telefoon dan mag je de politie niet bellen of sms’en.    <br>
+     
+◦ <b>Verboden Criminaliteit</b><br>
+     ➥ Het maken van meth met 2 personen in 1 bus is ten strengste verboden en valt onder bug abuse.<br>
+
+
 
 © 2020 ZuiderveenRP
