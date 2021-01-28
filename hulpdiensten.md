@@ -1,35 +1,53 @@
-# Hulpdiensten 
+# Algemene regels hulpdiensten 
 
-◦ <b>Agressief Benaderen</b> ➥ Het agressief benaderen van Politie, Kmar, Ambulance en ANWB is niet toegestaan. Blijf ten alle tijde vriendelijk.
+ ➥ Het agressief benaderen van Politie, Ambulance, Taxi en ANWB is niet toegestaan. Blijf ten alle tijde vriendelijk.</br>
+ ➥ Het stelen van overheidsvoertuigen is niet toegestaan. Hieronder vallen de voertuigen van de Politie, Ambulance, ANWB, Rijkswaterstaat en Taxi.</br>
+ ➥ op het moment van het uitvoeren van een overheidsbaan MOET je gebruik maken van de porto dit om de roleplay te verbeteren.</br>
+ ➥ Het is ten alle tijden niet toegestaan om corrupt te zijn. Als je dit wel doet ben je per direct ontslagen.</br>
+ ➥ Het oproepen van collega's via discord omdat er bijvoorbeeld een overval is valt ondet "Metagamen".</br>
+ ➥ Het in dienst gaan zonder de goede dienst kleding is ten strengste verboden.</br>
+ ➥ Het is niet toegestaan om als hulpdienst criminele activiteiten uit te voeren, zowel in als uit dienst niet.</br>
+ ➥ Het scammen van hulpdiensten is niet toegestaan.</br>
+ 
+ 
 
-◦ <b>Overheidsvoertuigen</b> ➥ Het stelen van overheidsvoertuigen is niet toegestaan. Hieronder vallen de voertuigen van de Politie, Kmar, Ambulance, ANWB en Rijkswaterstaat.
 
-◦ <b>Cop Baiten</b> ➥ Het uitlokken van politie/kmar is niet toegestaan. Dit is bijvoorbeeld door heel hard langs hun te rijden.
+# Regels Politie
 
-◦ <b>Porto</b> ➥ Als je indienst bent moet je in je porto ingame en discord zitten. Als je dit niet doet is er een kans dat je ontslagen wordt.
+ ➥ Bij een winkel overval mogen de DSI niet komen mits er automatische vuurwapens aanwezig zijn of er meer dan 5 gegijzelden zijn met een dreigingsniveau van 4 of hoger. Gebeurt dit wel valt dit onder "Fail-rp".</br>
+ ➥ Je mag alleen zware wapens gebruiken als je indienst bent als DSI of BE anders is dit niet toegestaan.
+ ➥ Je mag je collega's niet reviven als zij zijn neergeschoten ook niet als zij een kogelwerend vest dragen. Als zij zijn neergestoken terwijl zij een steekvest dragen mag je ze wel reviven. Doe dit wel na het scenario. </br>
+ ➥ Het gebruik van vuurwapens door de politie is in de volgende scenarios toegestaan: de verdachte vuurwapen gevaarlijk of mogelijk gevaarlijk is, een collega of burger in gevaar is, </br>
+ ➥ Het gebruik van vuurwapens in een achtervoling door de politie is toegestaan mits er op de banden word geschoten anders niet! pas als de auto stilstaat mogen er wapens gericht op de verdachte gericht worden.</br>
+ ➥ Het pitten door de politie is toegestaan mits het onder de 100 KM/U is. </br>
+ ➥ Het brake checken (het remmen voor een auto die achter je zit) is toegestaan. </br>
+ ➥ Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger. </br>
+ ➥ Het liegen tegen de gijzelnemers vanuit de politie is toegestaan.</br>
+ ➥ Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt.</br>
+ ➥ 
+ ➥ 
+ ➥ 
+ 
+# Regels Ambulance
+ ➥ Het reviven van mensen die zijn doodgeschoten of neergestoken is niet toegestaan.</br>
+ ➥ Het samenwerken met de onderwereld is niet toegestaan dit valt onder corruptie.</br>
+ ➥ Het betaald krijgen om iemand te reviven is niet toegestaan dit valt onder corruptie.</br>
+ ➥ De desbetreffende persoon niet meer aanspreekbaar is.</br> 
+ ➥ De desbetreffende persoon minder dan 20% bloed heeft.</br>
 
-◦ <b>Taser</b> ➥ Als je bent getaserd dien je jezelf direct over te geven. Als je dit niet doet valt dit onder Fail-rp.
+# Regels Anwb
+ ➥ Het weigeren van mensen is toegestaan als er een dreiging word geuit of er een gevaarlijke situatie voorkomt. </br>
+ ➥ Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet opgenomen. </br>
+ ➥ Het vdmen tegen een auto van de ANWB staat een boete op van 1500 euro, ook als je je niet gedraagd op het Hoofdbureau zal deze worden uitgeschreven.</br>
+ ➥ Het afsluiten van abbonementen kan uitsluitend bij hoofd-monteur of hoger.</br>
+ ➥ 
 
-◦ <b>Mengen Met Een Achtervolging</b> ➥ Het mengen met een achtervolging als buitenstaander is niet toegestaan.
+# Regels Taxi
+ ➥ Taxi mag personen weigeren als er een dreiging vormt of is voor de chauffeur van de taxi.</br>
+ ➥ 
+ ➥
+ ➥
+ ➥
 
-# Voor De Hulpdiensten
-
-◦ <b>Winkel Overval</b> ➥ Bij een winkel overval mogen de DSI, BSB en DKDB niet komen. Gebeurt dit wel valt dit onder "Fail-rp".
-
-◦ <b>Leiding Overval</b> ➥ Als er een overval is in de stad heeft de Politie de leiding. Als er een overval is in het noorden dan heeft de Kmar de leiding.
-
-◦ <b>Zware Wapens</b> ➥ Je mag alleen zware wapens gebruiken als je indienst bent als DSI of BSB. Anders is dit niet toegestaan.
-
-◦ <b>Reviven</b> ➥ Je mag je collega's niet reviven als zij zijn neergeschoten ook niet als zij een kogelwerend vest dragen. Als zij zijn neergestoken terwijl zij een steekvest dragen mag je ze wel reviven. Doe dit wel na het scenario.
-
-◦ <b>Corruptie</b> ➥ Het is ten alle tijden niet toegestaan om corrupt te zijn. Als je dit wel doet ben je per direct ontslagen.
-
-◦ <b>Grens</b> ➥ Als je over de grens gaat moet je de andere partij inlichten. 
-
-◦ <b>Achtervolging</b> ➥ Je gooit ten alle tijden niet je voertuig voor een snel vluchtend voertuig. Als je dit wel doet valt dit onder "No Value Of Life".
-
-◦ <b>DKDB</b> ➥ Als DKDB mag je alleen een pistool dragen qua vuurwapen.
-
-◦ <b>Collega's Oproepen</b> ➥ Het oproepen van collega's via discord omdat er bijvoorbeeld een overval is valt ondet "Metagamen".
-
+# Let op! niet alle regels zullen hierboven vermeld worden!
 © 2020 ZuiderveenRP
