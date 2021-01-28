@@ -54,6 +54,7 @@
      ➥ Het losgeld vragen voor een politie agent is toegestaan het maximale bedrag van dit bedraagt 50.000 euro. <br>
      ➥ Het meerdere malen op 1 dag een en dezelfde agent ontvoeren is niet toegestaan. <br>
      ➥ Het maximale agenten dat mag worden ontvoert per dag is 3. <br>
+     
 ◦ <b>Wanneer mag je gefouilleerd worden</b><br>
      ➥ Als je een holster om hebt.<br>
      ➥ Als je vlucht voor de politie.<br>
