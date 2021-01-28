@@ -48,7 +48,12 @@
 ◦ <b>RolePlay tegen over de politie</b><br>
      ➥ Het schieten op politie mag in de volgende Scenario’s, Bank overval waarin de politie binnenvalt of schiet, In geval van nood (alleen waarschuwing schoten),           Als je een politie onder schot hebt en er komt back-up en het wordt gevaarlijk voor jou en je collega mag je schieten,onnodig schieten is een ban.<br> 
      ➥ Als je op een politie schiet probeer altijd eerst op de benen te schieten! Onnodig politie doodschieten is een ban <br>
-   
+     
+◦ <b>Het ontvoeren van Politie</b><br>
+     ➥ Het ontvoeren van politie mag pas als er 6 agenten in dienst zijn. <br>
+     ➥ Het losgeld vragen voor een politie agent is toegestaan het maximale bedrag van dit bedraagt 50.000 euro. <br>
+     ➥ Het meerdere malen op 1 dag een en dezelfde agent ontvoeren is niet toegestaan. <br>
+     ➥ Het maximale agenten dat mag worden ontvoert per dag is 3. <br>
 ◦ <b>Wanneer mag je gefouilleerd worden</b><br>
      ➥ Als je een holster om hebt.<br>
      ➥ Als je vlucht voor de politie.<br>
