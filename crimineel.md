@@ -87,7 +87,16 @@
      
 ◦ <b>Verboden Criminaliteit</b><br>
      ➥ Het maken van meth met 2 personen in 1 bus is ten strengste verboden en valt onder bug abuse.<br>
-
+     
+◦ <b>Regels over de GangWar</b> <br>
+     ➥ New Life rule in de gangwar betekend dat nadat je bent doodgeschoten ook niet meer mag meedoen aan t scenario en je ook je outfit moet veranderen.<br>
+     ➥ Je bent verplicht om je eigen gang outfit te dragen, de outfit moet je ook toesturen aan de rivaliserende gangs.<br>
+     ➥ De aanleiding van een gangwar moet worden besproken met een Admin +.<br>
+     ➥ maximale tijd van een gangwar is : 12 uur.<br>
+     ➥ alle normale regels gelden naast de gangwar ook.<br>
+     ➥ In de gangwar zijn de volgende safe-zones : Alle Garages, Ziekenhuis, Anwb Hoofdkantoor, het campen van deze plekken is ook niet toegestaan.<br>
+    
+     
 
 
 © 2020 ZuiderveenRP
