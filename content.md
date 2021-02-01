@@ -4,6 +4,8 @@
 
 ◦ <b>Tonen Van Locaties</b> ➥ Het tonen van gehieme locaties is niet toegestaan. Als je dit wel doet ben je direct je Streamer rol kwijt.
 
+◦ <b>Plaatsen van content</b> ➥ Het plaatsen van ''kill montages'' in de discord onder het kopje Content is verboden!</br>
+
 ◦ <b>Streamsnipen</b> ➥ Streamsnipen is niet toegestaan. Hier zijn een paar voorbeelden van streamsnipen:
 - Het achtervolgen van een streamer
 - Persoon bij zijn irl naam noemen inplaats van zijn ingame naam
