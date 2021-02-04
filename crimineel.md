@@ -88,6 +88,7 @@
 ◦ <b>Verboden Criminaliteit</b><br>
      ➥ Het maken van meth met 2 personen in 1 bus is ten strengste verboden en valt onder bug abuse.<br>
      ➥ Het geven van een ''vergeet pil'' na dat je een burger overvalt. (dit mag wel in de volgende scenario's, als een gangmember de gang verlaat of eruit word gekicked).<br>
+     
 ◦ <b>Regels over de GangWar</b> <br>
      ➥ New Life rule in de gangwar betekend dat nadat je bent doodgeschoten ook niet meer mag meedoen aan t scenario en je ook je outfit moet veranderen.<br>
      ➥ Je bent verplicht om je eigen gang outfit te dragen, de outfit moet je ook toesturen aan de rivaliserende gangs.<br>
