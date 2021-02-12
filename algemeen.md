@@ -20,7 +20,7 @@
 
 ◦ <b>Nieuwe Spelers</b> ➥ Ze zijn net nieuw in de stad. Laat hun eerst rustig de stad verkennen dus ontvoer ze niet gelijk etc.
 
-◦ <b>Metagamen</b> ➥ Het buiten game verkregen informatie ingame gebruiken is niet toegestaan.
+◦ <b>Metagamen</b> ➥ Het buiten game verkregen informatie ingame gebruiken is niet toegestaan dus ook geen "bodycam" video's. 
 
 ◦ <b>Powergamen</b> ➥ Als je bijvoorbeeld iemand wilt ontvoeren en deze persoon werkt goed mee. Als je hem dan nog steeds neerschiet valt onder powergamen en dit is niet toegestaan.
 
